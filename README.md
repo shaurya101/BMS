@@ -1,4 +1,7 @@
 # BMS
-Battery Management System for Li-ion NMC cell for Nissan Leaf WLTP drive cycle and more.
+Battery Management System for safe operation of Li-ion NMC cell for Nissan Leaf (WLTP) and Ather 450 (MNEDC) drive cycles for charge and discharge processes.The BMS system designed was of a Korean battery manufacturer Kokam, Cell Model 'SLPB72216216'.
+
+The BMS successfully triggered and disconnected the battery under fault conditions (over/under voltage or current and temperature breach) and reconnected it when conditions were in safe limits again. A dashboard was also created to visually observe the same with green light signalling smooth functioning and red representing fault and BMS trigger.
+
 
 Basic Report - https://shaurya101.github.io/BMS/.
